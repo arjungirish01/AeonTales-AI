@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 Project Overview
+## Project Overview
 
 AeonTales-AI is an experimental role-playing game (RPG) that integrates AI/NLP/ML to make NPCs (“non-player characters”) who adapt, interact, and respond to player actions in meaningful ways. Key themes:
 
@@ -14,7 +14,7 @@ AeonTales-AI is an experimental role-playing game (RPG) that integrates AI/NLP/M
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 AeonTales-AI/
@@ -29,7 +29,7 @@ AeonTales-AI/
 
 ---
 
-## 🚧 Status & Roadmap
+## Status & Roadmap
 
 **Current status**: In development / prototype stage. Some core systems created (NPC skeleton, time travel scaffold, narrative branching), but many features still pending.
 
@@ -45,7 +45,7 @@ AeonTales-AI/
 
 ---
 
-## 🔧 How to Set Up & Run
+## How to Set Up & Run
 
 1. Clone the repository  
    ```bash

@@ -1,6 +1,6 @@
 # AeonTales-AI
 
-**Shape the past, influence the future** — an AI-powered RPG with living NPCs, dynamic time travel, and evolving narrative.
+**Shape the past, influence the future** an AI-powered RPG with living NPCs, dynamic time travel, and evolving narrative.
 
 ---
 
